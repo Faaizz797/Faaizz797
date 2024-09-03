@@ -1,3 +1,7 @@
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
+
+
 # Hey there, I'm Faiz! 🌟
 
 **Welcome to my coding universe!** I'm Faiz, a passionate developer who thrives on turning ideas into reality with code. Whether it’s crafting dynamic web experiences or diving into the world of mobile apps, I’m all about creating tech that makes life easier and more enjoyable.
@@ -18,9 +22,11 @@
 
 I believe in the power of community and collaboration. If you’re as passionate about tech as I am, let's connect!
 
-- **YouTube**: [📺 Subscribe to my Channel](https://youtube.com/@faaizz.07?si=RE-wYGgCqSChg3a3) — Explore my latest tutorials, coding tips, and project showcases.
-- **Instagram**: [📸 Follow me](https://www.instagram.com/just.faaizz_) — Get a glimpse into my tech journey, projects, and daily life.
-- **Email**: [faaizz.797@gmail.com](mailto:faaizz.797@gmail.com) — Have a project idea or just want to chat? Drop me a line!
+<p align="left">
+<a href="www.linkedin.com/in/faiz-902239285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/faiz-902239285" height="30" width="40" /></a>
+<a href="https://www.instagram.com/just.faaizz_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="just.faaizz_" height="30" width="40" /></a>
+<a href="https://youtube.com/@faaizz.07?si=RE-wYGgCqSChg3a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Faiz Ajaa" height="30" width="40" /></a>
+</p>
 
 ## 🌱 Growing Every Day
 
